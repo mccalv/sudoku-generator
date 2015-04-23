@@ -1,6 +1,6 @@
 The application not only validates a Sudoku file but it is capable of generatinga SudokuMatrix both complete or partial (ready to be played).
 
-
+```
 *************************
 Launcing Java Application
 *************************
@@ -22,3 +22,4 @@ Please press the following options:
 [a] Generate a Sudoku matrix 
 [b] Generate a Sudoku playble matrix
 [c] Validate a Sudoku file
+```
