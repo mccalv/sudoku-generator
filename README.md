@@ -1,5 +1,11 @@
-The application not only validates a Sudoku file but it is capable of generating
-a SudokuMatrix both complete or partial (ready to be played).
+**Sudoku Generator**
+--------------------
+
+The application offers a complete algorithm to generate a Sudoku random matrix in *O(n)* complexity time and validate it. 
+The creation of the matrix is based on *band permutation*, which generates a Sudoku table from a first random *3*3* random square. 
+In general it is possibile to generate *9!* possible combination. 
+The application provides also to generate playable sudoku for different difficulties level.
+
 In order to use it:
 
 ```
